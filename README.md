@@ -23,13 +23,8 @@ stats-bigdata-basics/
 
 ---
 
-## License
-
-Add a license to clarify reuse. Common choices:
-
-* **MIT** (permissive; good for educational code)
-* **CC BY 4.0** (often used for written teaching materials)
-
-If you use both code + teaching content, a clean split is **MIT for code** and **CC BY for text/figures**.
+## 📄 License
+**MIT** © 2025 — *Carlos Alejandro Pérez García* / DataAnalitk  
+See [LICENSE](LICENSE) for full text.
 
 ---
